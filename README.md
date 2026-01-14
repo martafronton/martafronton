@@ -1,16 +1,27 @@
-## Hi there 👋
+# 🌸 Hola, soy Marta
 
-<!--
-**martafronton/martafronton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudiante de Desarrollo Web 
 
-Here are some ideas to get you started:
+Tengo 19 años y estoy formándome en desarrollo web, en el CIFP Virgen de Gracia en Puertollano (Ciudad Real). Me encanta aprender y siempre trato de hacer todos mis proyectos lo mejor posible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tecnologías y herramientas
+
+**Frontend**
+- HTML · CSS · JavaScript  
+- React · Vite  
+- Arquitectura basada en componentes
+
+**Flujo de trabajo**
+- Git & GitHub  
+
+**Backend**
+- PHP · Laravel  
+- Kotlin  
+- Node.js  
+- Oracle · MySQL
+
+---
+
+
