@@ -2,7 +2,7 @@
 
 ### Estudiante de Desarrollo Web 
 
-Tengo 19 años y estoy formándome en desarrollo web en el instituto CIFP Virgen de Gracia en Puertollano (Ciudad Real). Me encanta aprender y siempre trato de hacer todos mis proyectos lo mejor posible.
+Tengo 19 años y estudio Desarrollo Web en el CIFP Virgen de Gracia (Puertollano, Ciudad Real). Me encanta aprender y siempre intento que cada proyecto refleje mi esfuerzo y mis ganas de mejorar.
 
 ---
 
